@@ -1,4 +1,4 @@
-cardboard
-=========
+Google Cardboard
+================
 
-google cardboard
+Please see <http://g.co/cardboard> for more information.
